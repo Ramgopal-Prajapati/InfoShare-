@@ -1,0 +1,42 @@
+.box{
+    width: 98%;
+    height: 300px;
+    display: inline-block;
+    border: 2px solid gray;
+    border-radius: 30px;
+    margin: 3px;
+
+
+}
+.b_img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50px;
+    margin-left: 10px;
+}
+
+.info{
+    width: 70%;
+    height: 91%;
+    margin-left: 285px;
+    margin-top: -257px;
+   
+}
+
+
+/* For mobails  
+
+.info{
+    width: 93%;
+    height: 91%;
+    margin-left: 17px;
+    margin-top: -138px;
+}
+.b_img {
+    width: 300px;
+    height: 285px;
+    border-radius: 25px;
+    margin-left: 41px;
+    margin-top: 5px;
+}
+*/
